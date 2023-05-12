@@ -1,0 +1,8 @@
+git clear
+git status
+git commit
+git log
+git add
+git clone
+git push origin main
+git 
